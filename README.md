@@ -1,3 +1,6 @@
+## Steps to Run
+Run Xamp and create DATABASE novelacting in SQL the run php artisan serve cmd in terminals
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
