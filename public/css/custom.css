@@ -1,0 +1,11 @@
+#login_container{
+    box-shadow: 5px 10px #888888;
+}
+
+body{
+    background: url("/img/bg.png");background-size: cover;
+}
+
+.table table-hover table-sm{
+    font-size: 3px;
+  }
